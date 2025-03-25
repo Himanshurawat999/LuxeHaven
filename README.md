@@ -1,8 +1,6 @@
 # LuxeHaven - A Modern Fullstack (MERN) E-Commerce Platform
 
-[![iamjabeed - LuxeHaven](https://img.shields.io/static/v1?label=iamjabeed&message=LuxeHaven&color=%236D3CB4&logo=github)](https://github.com/iamjabeed/LuxeHaven)
-
-- **LinkedIn:** [iamjabeed](https://www.linkedin.com/in/himanshurawat9/)
+- **LinkedIn:** [himanshurawat9](https://www.linkedin.com/in/himanshurawat9/)
 
 ## Project Screenshots
 
@@ -24,7 +22,7 @@
 **Product Detailed Page**
 ![Product Detailed Page](./frontend/public/ProductDetailed.png)
 
-*Scroll down for Admin related pages.*
+_Scroll down for Admin related pages._
 
 ## Overview
 
